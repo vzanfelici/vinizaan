@@ -1,7 +1,7 @@
 ## Olá, eu sou o Vinícius Zanfelici. 👋
 
 - 🌱 Atualmente aprendendo Desenvolvimento Mobile usando Java.
-- 📫 Contato: viniciuszanfelici@hotmail.com
+- 📫 Contato: viniciuszanfelici@hotmail.com 
 
 <div align="center">
   <a href="https://github.com/vinizaan">
