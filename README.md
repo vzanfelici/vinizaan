@@ -18,7 +18,7 @@
   <img align="center" alt="vinicius-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="vinicius-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img align="center" alt="vinicius-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750349394582306926/1001982242140205167/unknown.png"
+  <img align="right" alt="vinicius-foto-perfil" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/750349394582306926/1001982242140205167/unknown.png"
 </div>          
 
 ##
