@@ -1,6 +1,6 @@
 ## Olá, eu sou o Vinícius Zanfelici. 👋
 
-- 🌱 Atualmente aprendendo Desenvolvimento Mobile usando Java.
+- 🌱 Atualmente aprendendo Desenvolvimento Mobile nativo usando Java e multiplataforma usando Flutter e Ionic.
 - 📫 Contato: viniciuszanfelici@hotmail.com 
 
 <div align="center">
